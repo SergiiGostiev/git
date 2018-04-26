@@ -1,0 +1,17 @@
+c:\users\sergii\source\repos\Employee_management\Employee_Hierarchy\obj\Debug\netstandard2.0\EmployeeHierarchy.csproj.CoreCompileInputs.cache
+c:\users\sergii\source\repos\Employee_management\Employee_Hierarchy\obj\Debug\netstandard2.0\EmployeeHierarchy.AssemblyInfoInputs.cache
+c:\users\sergii\source\repos\Employee_management\Employee_Hierarchy\obj\Debug\netstandard2.0\EmployeeHierarchy.AssemblyInfo.cs
+c:\users\sergii\source\repos\Employee_management\Employee_Hierarchy\bin\Debug\netstandard2.0\EmployeeHierarchy.deps.json
+c:\users\sergii\source\repos\Employee_management\Employee_Hierarchy\bin\Debug\netstandard2.0\EmployeeHierarchy.dll
+c:\users\sergii\source\repos\Employee_management\Employee_Hierarchy\bin\Debug\netstandard2.0\EmployeeHierarchy.pdb
+c:\users\sergii\source\repos\Employee_management\Employee_Hierarchy\obj\Debug\netstandard2.0\EmployeeHierarchy.dll
+c:\users\sergii\source\repos\Employee_management\Employee_Hierarchy\obj\Debug\netstandard2.0\EmployeeHierarchy.pdb
+C:\Users\Sergii\Desktop\EmployeeManagement\Employee_Hierarchy\bin\Debug\netstandard2.0\EmployeeHierarchy.deps.json
+C:\Users\Sergii\Desktop\EmployeeManagement\Employee_Hierarchy\bin\Debug\netstandard2.0\EmployeeHierarchy.dll
+C:\Users\Sergii\Desktop\EmployeeManagement\Employee_Hierarchy\bin\Debug\netstandard2.0\EmployeeHierarchy.pdb
+C:\Users\Sergii\Desktop\EmployeeManagement\Employee_Hierarchy\obj\Debug\netstandard2.0\EmployeeHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Sergii\Desktop\EmployeeManagement\Employee_Hierarchy\obj\Debug\netstandard2.0\EmployeeHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Sergii\Desktop\EmployeeManagement\Employee_Hierarchy\obj\Debug\netstandard2.0\EmployeeHierarchy.AssemblyInfoInputs.cache
+C:\Users\Sergii\Desktop\EmployeeManagement\Employee_Hierarchy\obj\Debug\netstandard2.0\EmployeeHierarchy.AssemblyInfo.cs
+C:\Users\Sergii\Desktop\EmployeeManagement\Employee_Hierarchy\obj\Debug\netstandard2.0\EmployeeHierarchy.dll
+C:\Users\Sergii\Desktop\EmployeeManagement\Employee_Hierarchy\obj\Debug\netstandard2.0\EmployeeHierarchy.pdb
